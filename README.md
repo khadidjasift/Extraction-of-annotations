@@ -13,7 +13,8 @@ The first method involves advanced image processing techniques to identify key f
 
 #### Results for Method 01
 
-The results of applying Method 01 can be viewed https://github.com/khadidjasift/Extraction-of-annotations/issues/3#issue-2204060804
+The results of applying Method 01 can be viewed 
+https://github.com/khadidjasift/Extraction-of-annotations/issues/3#issue-2204060804
 ### Method 02
 
 Our second method introduces a novel approach to extract annotations with improved accuracy.
