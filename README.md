@@ -23,17 +23,7 @@ Our second method introduces a novel approach to extract annotations with improv
 
 See the outcomes of Method 02 in [Issue #5](https://github.com/khadidjasift/Extraction-of-annotations/issues/5#issue-2204061706).
 
-## Getting Started
 
-To begin using these methods, please ensure you have all the required software installed as listed in the [installation guide](LINK_TO_INSTALLATION_GUIDE). Follow the setup instructions to configure your environment.
-
-## Usage
-
-After installation, you can run each method using the scripts provided in the repository. Instructions for running the scripts are included in the [usage documentation](LINK_TO_USAGE_DOCUMENTATION).
-
-## Contributing
-
-Your contributions are welcome! If you have suggestions for improvement or have developed enhancements, please open an issue or submit a pull request.
 
 ## License
 
